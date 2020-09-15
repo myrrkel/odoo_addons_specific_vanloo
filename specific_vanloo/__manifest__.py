@@ -20,6 +20,7 @@
         'l10n_fr',
         'product_book',
         'partner_bookshop_import',
+        'web_view_google_map',
     ],
     'category': 'Specific Modules/Vanloo',
     'complexity': 'easy',
