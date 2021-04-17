@@ -21,6 +21,8 @@
         'product_book',
         'partner_bookshop_import',
         'web_view_google_map',
+        'invoice_distributor',
+        'mail',
     ],
     'category': 'Specific Modules/Vanloo',
     'complexity': 'easy',
