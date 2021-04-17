@@ -6,7 +6,7 @@
     'version': '13.0.0.0',
     'author': 'myrrkel',
     'website': 'https://github.com/myrrkel',
-    'summary': "Module",
+    'summary': "Specific Vanloo customization",
     'sequence': 0,
     'certificate': '',
     'license': 'LGPL-3',
