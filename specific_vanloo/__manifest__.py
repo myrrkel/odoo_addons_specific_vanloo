@@ -38,6 +38,7 @@ This module adds specific components for Vanloo Book Publisher.
     'data': [
         'security/ir.model.access.csv',
         'security/security.xml',
+        'views/report_distributor_order.xml',
     ],
     'auto_install': False,
     'installable': True,
