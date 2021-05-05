@@ -7,6 +7,9 @@
 
             <xpath expr="//span[@id='line_tax_ids']/.." position="replace"/>
 
+            <xpath expr="//td[@name='customer_name']" position="inside">
+                <br/><span t-esc="'%s %s' % (line.customer_id.zip, line.customer_id.city)"/>
+            </xpath>
         </template>
 
     </data>
